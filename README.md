@@ -5,6 +5,7 @@ Scripts for seismicity statistics and visualization
   depth distribution <br>
   profile view <br>
   map view <br>
+  clusters profile map [add] <br> 
   
 2. Magnitude <br>
   frequency-magnitude distribution <br>
